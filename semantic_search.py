@@ -67,15 +67,12 @@ if __name__ == '__main__':
     nlp_spacy.add_pipe(lemmatize, after="tagger")
     lemmatizer = nlp_spacy.get_pipe("lemmatize")
 
-    wn = nltk.corpus.reader.wordnet.WordNetCorpusReader('/home/andres/PycharmProjects/wn-mcr-transform/wordnet_spa',
-                                                        None)
+    wn = nltk.corpus.reader.wordnet.WordNetCorpusReader(path_to_corpus, None)
 
-    data_source = 'covid_contracts_2021_05_06_with_keywords_test2.csv'
+    data_source = path_to_data_source
     output_file = 'results_found.csv'
     tesauro = 'evaluation_tesauro.json'
     search_engines = ["A", "B", "C", "D"]
-    keys_selected = ["emergencia", "alimento", "insumo", "reactivo", "mascarilla", "equipo", "producto", "construcción",
-                     "servicio", "hospital", "municipio", "terapia"]
     search_types = ["NQE", "QE"]
     contracts_found = []
 
