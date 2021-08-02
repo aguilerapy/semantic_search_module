@@ -1,0 +1,231 @@
+{
+    "harina": [
+      "harina"
+    ],
+    "aceite": [
+      "aceite"
+    ],
+    "azucar": [
+      "azucar"
+    ],
+    "trigo": [
+      "trigo"
+    ],
+    "sal": [
+      "sal"
+    ],
+    "yerba": [
+      "yerba"
+    ],
+    "leche": [
+      "leche"
+    ],
+    "pandemia": [
+      "pandemia",
+      "epidemia",
+      "propagación"
+    ],
+    "covid-19": [
+      "covid-19",
+      "covid",
+      "19-ncov",
+      "covid-2019",
+      "coronavirus",
+      "SARS-CoV-2"
+    ],
+    "mascarilla": [
+      "mascarilla",
+      "tapabocas",
+      "barbijo",
+      "cubrebocas"
+    ],
+    "bata": [
+      "bata",
+      "guardapolvo",
+      "chaleco",
+      "traje"
+    ],
+    "guante": [
+      "guante"
+    ],
+    "bota": [
+      "bota",
+      "cubrepiés"
+    ],
+    "hospital": [
+      "hospital",
+      "clinica",
+      "sanatorio",
+      "centro médico"
+    ],
+    "laboratorio": [
+      "laboratorio"
+    ],
+    "municipio": [
+      "municipio",
+      "ministerio",
+      "estado",
+      "municipalidad"
+    ],
+    "catéter": [
+      "cateter"
+    ],
+    "aerosol": [
+      "aerosol"
+    ],
+    "termometro": [
+      "termometro"
+    ],
+    "jeringa": [
+      "jeringa",
+      "jeringuilla",
+      "inyección"
+    ],
+    "hisopo": [
+      "hisopo",
+      "aspersorio",
+      "hisopillo"
+    ],
+    "reactivo": [
+      "reactivo",
+      "test",
+      "detección",
+      "evaluación"
+    ],
+    "paracetamol": [
+      "paracetamol"
+    ],
+    "amoxicilina": [
+      "amoxicilina"
+    ],
+    "jarabe": [
+      "jarabe"
+    ],
+    "suero": [
+      "suero"
+    ],
+    "instalación": [
+      "instalación",
+      "instauración"
+    ],
+    "construcción": [
+      "construcción",
+      "adecuación",
+      "ampliación"
+    ],
+    "mantenimiento": [
+      "mantenimiento"
+    ],
+    "alimento": [
+      "alimento",
+      "víveres",
+      "comida",
+      "almuerzo"
+    ],
+    "insumo": [
+      "insumo"
+    ],
+    "medicamento": [
+      "medicamento",
+      "medicina",
+      "fármaco",
+      "remedio"
+    ],
+    "pcr": [
+      "pcr"
+    ],
+    "antígeno": [
+      "antígeno"
+    ],
+    "alcohol": [
+      "alcohol"
+    ],
+    "gas": [
+      "gas"
+    ],
+    "oxigeno": [
+      "oxigeno"
+    ],
+    "provisión": [
+      "provisión",
+      "suministro",
+      "abastecimiento"
+    ],
+    "cama": [
+      "cama",
+      "camilla"
+    ],
+    "equipo": [
+      "equipo",
+      "protección",
+      "accesorio",
+      "bioseguridad"
+    ],
+    "reparación": [
+      "reparación",
+      "arreglo",
+      "restauración"
+    ],
+    "transporte": [
+      "transporte",
+      "traslado",
+      "tránsito"
+    ],
+    "educación": [
+      "educación",
+      "enseñanza",
+      "formación"
+    ],
+    "salud": [
+      "higiene",
+      "limpieza",
+      "salud",
+      "sanidad",
+      "salubridad",
+      "saneamiento",
+      "aseo"
+    ],
+    "obra": [
+      "obra",
+      "proyecto"
+    ],
+    "terapia": [
+      "terapia",
+      "tratamiento",
+      "medicación"
+    ],
+    "hemodinamia": [
+      "hemodinamia"
+    ],
+    "hemodiálisis": [
+      "hemodiálisis"
+    ],
+    "uti": [
+      "uti",
+      "uci",
+      "cuidados intensivos",
+      "terapia intensiva"
+    ],
+    "emergencia": [
+      "emergencia",
+      "contingencia",
+      "urgencia"
+    ],
+    "producto": [
+      "producto",
+      "artículo"
+    ],
+    "servicio": [
+      "servicio"
+    ],
+    "establecimiento": [
+      "establecimiento",
+      "recinto",
+      "puesto"
+    ],
+    "institución": [
+      "institución",
+      "instituto",
+      "organización"
+    ]
+  }

@@ -1,0 +1,151 @@
+{
+    "harina": [
+      "alimento"
+    ],
+    "aceite": [
+      "alimento"
+    ],
+    "azucar": [
+      "alimento"
+    ],
+    "trigo": [
+      "alimento"
+    ],
+    "sal": [
+      "alimento"
+    ],
+    "yerba": [
+      "alimento"
+    ],
+    "leche": [
+      "alimento"
+    ],
+    "pandemia": [
+      "emergencia"
+    ],
+    "covid-19": [
+      "emergencia",
+      "pandemia"
+    ],
+    "mascarilla": [
+      "equipo"
+    ],
+    "bata": [
+      "equipo"
+    ],
+    "guante": [
+      "equipo"
+    ],
+    "bota": [
+      "equipo"
+    ],
+    "hospital": [
+      "establecimiento"
+    ],
+    "laboratorio": [
+      "establecimiento"
+    ],
+    "municipio": [
+      "institución"
+    ],
+    "catéter": [
+      "insumo"
+    ],
+    "aerosol": [
+      "insumo"
+    ],
+    "termometro": [
+      "insumo"
+    ],
+    "jeringa": [
+      "insumo"
+    ],
+    "hisopo": [
+      "insumo"
+    ],
+    "reactivo": [
+      "insumo"
+    ],
+    "paracetamol": [
+      "medicamento"
+    ],
+    "amoxicilina": [
+      "medicamento"
+    ],
+    "jarabe": [
+      "medicamento"
+    ],
+    "suero": [
+      "medicamento"
+    ],
+    "instalación": [
+      "obra"
+    ],
+    "construcción": [
+      "obra"
+    ],
+    "mantenimiento": [
+      "obra",
+      "servicio"
+    ],
+    "alimento": [
+      "provisión"
+    ],
+    "insumo": [
+      "provisión"
+    ],
+    "medicamento": [
+      "provisión"
+    ],
+    "pcr": [
+      "reactivo"
+    ],
+    "antígeno": [
+      "reactivo"
+    ],
+    "alcohol": [
+      "recurso"
+    ],
+    "gas": [
+      "recurso"
+    ],
+    "oxigeno": [
+      "recurso"
+    ],
+    "provisión": [
+      "recurso"
+    ],
+    "cama": [
+      "recurso"
+    ],
+    "equipo": [
+      "recurso"
+    ],
+    "reparación": [
+      "servicio"
+    ],
+    "transporte": [
+      "servicio"
+    ],
+    "educación": [
+      "servicio"
+    ],
+    "salud": [
+      "servicio"
+    ],
+    "obra": [
+      "servicio"
+    ],
+    "terapia": [
+      "servicio"
+    ],
+    "hemodinamia": [
+      "terapia"
+    ],
+    "hemodiálisis": [
+      "terapia"
+    ],
+    "uti": [
+      "terapia"
+    ]
+  }
